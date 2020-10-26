@@ -1,0 +1,18 @@
+.margen {
+background-color: 	#3CB371;
+border:	#4682B4 8px outset;
+border-right: 20%;
+position: relative;
+right: -300px;
+margin: 0px;
+}
+h4 {
+	border: #4682B4 8px outset;
+}
+p {
+  border: #2E8B57 8px ridge;
+  background-color: #90EE90;
+}
+body {
+	#2E8B57
+}

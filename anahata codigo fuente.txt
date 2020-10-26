@@ -1,0 +1,73 @@
+﻿<html>
+      <head>
+            <title>Anahata / Chi kung</title>
+            <link rel="shortcut icon" type="image/x-ico" svr="logo.png">
+            <hr/>
+
+          <img src="imagenes/publicidad.jpg" width="1000" height="500" alt="imagen no encontrada" title=" Anahata / Chi kung"/>
+        <hr/>
+     </head>
+     <body> <audio src="audio/mamichula.mp3" controls="controls" type="audio/mpeg" preload="preload">
+</audio>
+        <video src="video/video.mp4" width="500" height="500" controls>
+  Tu navegador no implementa el elemento <code>video</code>.
+    </video>
+	<src="video.AVI" width="300" height="240" controller="false" autostart="true" loop=true>
+           <hr>
+           <table align='center'>
+                <tr>
+                    <td><img src="imagenes/logo1.png" width="150" height="150" alt="imagen no encontrada" title=" Anahata / Chi kung"/></td>
+                    <td><center>
+                                <p>Anahata / Chi kung<br><i>@Anahatataoychikung  · Comunidad</i></p></center></td>
+         </tr>
+     </table>
+   <hr></hr></hr> 
+            <table align='left'>
+                  <tr>
+                      <td><h2>¿Que Es Chi-kung?<hr></h2>
+                                                            
+                                                        El <mark>Chi Kung</mark> o <mark>Qi Gong</mark> es una terapia medicinal de<br>
+                                                        origen chino que pertenece al mismo grupo que otras<br>
+                                                        terapias como el taichi o el reiki. Todas ellas proceden<br>
+                                                        de la tradición oriental y sustentan sus principios en la<br>
+                                                        importancia de canalizar de forma adecuada la energía vital<br>
+                                                        (Qi) a través de los diferentes meridianos que recorren<br>
+                                                        nuestro cuerpo. Según dichos principios, el buen estado<br>
+                                                        de la salud de cada uno dependerá de nuestra capacidad<br>
+                                                        para conseguir el correcto equilibrio entre la mente y<br>
+                                                        el cuerpo; y dicho bienestar se logra, principalmente,<br>
+                                                        a través de la meditación y del control de la respiración.<br>
+                                                        De hecho, la traducción literal de chi kung vendría a ser<br>
+                                                        ‘el trabajo de la respiración’, ya que este método<br>
+                                                        terapéutico incide especialmente en la importancia de que<br>
+                                                        nuestra respiración sea consciente y acompañe a cada uno<br>
+                                                        de nuestros movimientos y pensamientos. También conocida
+                                                        como “fuente de la juventud”, quienes la practican aseguran
+                                                        que les ayuda a eliminar las tensiones y el estrés del día
+                                                        a día y que es un auténtico caudal de paz que les aporta
+                                                        salud y vitalidad.<hr></td>
+
+                      <td><img src="imagenes/publicidad3.jpg" width="600" height="450" alt="imagen no encontrada" title=" Anahata / Chi kung"/></td>
+                </tr>                 
+                       <tr>
+                           <td>
+                               <ul>
+                                   <li><h2>Contactanos:</h2>
+                                       <i>Numero De Telefono: 0426-2714668<i></li>
+                                   <li><h2>Para Mas Informacion:</h2>
+                                       Siguenos En <a target="_blank" href="https://www.facebook.com/Anahatataoychikung/?ref=page_internal "> Facebook</a></li>
+                          </td>
+             <hr>
+      </body
+            <footer>
+                  <table align='right'>
+                                       <tr>
+                    <td><address> <center>
+                               Autor: Jesus Andres Ramirez<br>
+                               correo: jesusramirez2205@gmail.com</center>
+                           <p>Última modificación: 16 de septiembre de 2020</p>
+                </address></td>  
+                                    </tr>
+             </table>
+      </footer>
+     
